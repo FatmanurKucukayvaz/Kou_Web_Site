@@ -1,0 +1,19 @@
+#liste li{
+	display: inline-block;
+	text-decoration: none;
+	vertical-align: baseline;
+	font-weight:bold;
+}
+#engelli_plan li{
+	display: inline-block;
+	text-decoration: none;
+	vertical-align: baseline;
+	font-weight:bold;
+}
+#engelli{
+	text-align:center;
+	font-weight:bold;
+	font-size:16px;
+}
+
+
